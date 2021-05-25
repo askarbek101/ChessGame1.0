@@ -12,5 +12,5 @@ all the logic of the game is written there
 package Resources 
 UI was created there
 
-Use Java Intellij Ultimate or Community 
+Use Java Intellij Ultimate or Community | 
 JDK is Amazon Corretto version 11.0.11
