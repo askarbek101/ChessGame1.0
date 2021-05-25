@@ -43,9 +43,7 @@ public class Chess extends Application {
 	}
 	
 	@Override
-	public void start(Stage args) {
-		getSettingsScreen(null);
-	}
+	public void start(Stage args) {	getSettingsScreen(null); }
 	
 	@Override
 	public void stop() throws Exception {
